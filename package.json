@@ -1,0 +1,22 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhad-orujov/newPro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhad-orujov/newPro/issues"
+  },
+  "homepage": "https://github.com/farhad-orujov/newPro#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap-reboot": "^4.5.6"
+  }
+}
